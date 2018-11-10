@@ -1,14 +1,13 @@
-# MR_Object-detection-image_Ver1
+# Object detection image Version 1
 Object detection Image
 
-## Building an Object Detection Model from Scratch in Python
+## Building an Object Detection Model  
 
 When we’re shown an image, our brain instantly recognizes the objects contained in it. On the other hand, it
 takes a lot of time and training data for a machine to identify these objects. But with the recent advances in
 hardware and deep learning, this computer vision field has become a whole lot easier and more intuitive.
 
 https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/ https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/
-
 
 ### Step 1: Create an Anaconda environment with python version 3.6.
 <br/>conda create -n retinanet python=3.6 anaconda
