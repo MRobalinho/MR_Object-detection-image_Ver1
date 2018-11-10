@@ -26,7 +26,8 @@ https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detec
 <br/>>Step 7: Open jupyter notebook (type jupyter notebook in your terminal) and run
 
 ## Image to Predict:
-![](images/car.jpg?raw=true)
+
+![](Images/car.jpg?raw=true)
 
 <br/>Prediction:
 <br/>car : 76.26890540122986
