@@ -21,16 +21,12 @@ https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detec
 
 ### Step 4: Now download the pretrained model required to generate predictions.
 <br/>This model is based on RetinaNet (a subject of a future article). Click on the link to download – RetinaNet Pretrained model <br/>https://github.com/fizyr/keras-retinanet/releases
-
 <br/>>Step 5: Copy the downloaded file to your current working folder
-
 <br/>>Step 6: Download the image from this link. Name the image as image.png
-
 <br/>>Step 7: Open jupyter notebook (type jupyter notebook in your terminal) and run
 
 ## Image to Predict:
-
-![](images/audi_PNG1767.png?raw=true)
+![](images/car.jpg?raw=true)
 
 <br/>Prediction:
 <br/>car : 76.26890540122986
