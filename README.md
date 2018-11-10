@@ -30,4 +30,12 @@ https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detec
 
 ## Image to Predict:
 
-![](image/audi_PNG1767.png?raw=true)
+![](images/audi_PNG1767.png?raw=true)
+
+<br/>Prediction:
+<br/>car : 76.26890540122986
+<br/>--------------------------------
+<br/>car : 94.30564641952515
+<br/>--------------------------------
+<br/>car : 70.49705386161804
+--------------------------------
